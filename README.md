@@ -2,8 +2,9 @@
 
 # Homework 1 Authoring
 
-Isaiah: Im from London and enjoy playing video games and watching sports.
-Isaiah2: Im from Toronto and love coding and making websites
+Isaiah Designer: Im from London and enjoy designing and making logos.
+
+Isaiah Coder: Im from Toronto and love coding and making websites.
 
 ## Contributing
 
