@@ -1,6 +1,9 @@
+![code screen](images/code.jpg "picture of code")
+
 # Homework 1 Authoring
 
 Isaiah: Im from London and enjoy playing video games and watching sports.
+Isaiah2: Im from Toronto and love coding and making websites
 
 ## Contributing
 
